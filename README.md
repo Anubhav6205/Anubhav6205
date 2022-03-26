@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](shorturl.at/wABO2)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **anubhavgupta6205@gmail.com**
 
 - ⚡ Fun fact **I'm a fitness Freak.**
 
