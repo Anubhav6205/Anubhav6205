@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **Flask.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
