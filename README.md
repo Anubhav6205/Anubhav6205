@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="20%" src="https://cdni.iconscout.com/illustration/premium/thumb/coding-programming-5380222-4498687.png" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anubhav</h1>
+<h1 align="center">Hi, I'm Anubhav</h1>
 <h3 align="center">I'm a passionate Front End Developer from India.</h3>
 
 
