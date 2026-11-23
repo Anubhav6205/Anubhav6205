@@ -1,11 +1,10 @@
 # Hi, I'm Anubhav Gupta
 
-Full stack developer with 2+ years of experience in Angular, Spring Boot and MongoDB, now building toward AI engineering: retrieval-augmented generation (RAG), agent workflows and LLM-backed services.
+Full stack developer with 3+ years of experience in Angular, Spring Boot and MongoDB, now building toward AI engineering: retrieval-augmented generation (RAG), agent workflows and LLM-backed services.
 
 ## What I'm working on
 
 - Evaluating and improving a multi-agent RAG assistant that answers questions about a codebase
-- Comparing vector search with graph-based retrieval on the same question set
 - Packaging LLM apps with Docker, FastAPI and CI
 
 ## Featured projects
